@@ -9,8 +9,8 @@ import kosii.test.curd.comtnauthorinfo.service.ComtnauthorinfoVO;
  * @Description : Comtnauthorinfo Business class
  * @Modification Information
  *
- * @author 이학래&lt;sinbb07@naver.com
- * @since 2017.04.10
+ * @author 이학래&lt;sinbb07@naver.com&gt;
+ * @since 201704102
  * @version 1.0
  * @see
  *  
